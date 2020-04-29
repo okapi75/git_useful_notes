@@ -44,6 +44,7 @@ git checkout 'commit_id' 'filename' - откат файла 'filename' до со
 ****
 <h5>Удаление файлов из гит-репозитория</h5>
 <p>
+<a href = "http://gearmobile.github.io/git/git-rm-and-git-mv/"> Тут можо про удаление почитать </a>
 git rm - удаляет из рабочего каталога и из отслеживаемых (эквивалентно 
 rm 'fllename'
 git add .)
